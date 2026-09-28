@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
 int main()
-{ std::string name="suraj kumar";
+{ std::string name="i am suraj kumar";
 std::cout<<name;
 return 0;}
